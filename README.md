@@ -7,6 +7,8 @@ The overview work here is a class group project for `Team 001` in the Georgia Te
 2)	Marketing & Advertising
 3)	Operations & Logistics
 
+***Disclaimer***: The views and opinions expressed in this project are those of the authors and do not necessarily reflect the views or positions of Georgia Tech.
+
 ## VAR Overview
 
 > [Value at Risk (VaR)](https://www.investopedia.com/terms/v/var.asp) is a statistical measure that quantifies the extent of possible financial losses within a firm, portfolio, or position over a specific time frame. It's commonly used by investment and commercial banks to assess risk exposure.
@@ -52,4 +54,3 @@ In the final [video presentation](https://www.youtube.com/watch?v=Caw6UfeNikM), 
 
 
 
-***Disclaimer***: The views and opinions expressed in this project are those of the authors and do not necessarily reflect the views or positions of Georgia Tech.
