@@ -39,7 +39,8 @@ We proposed a robust multi-factor analysis[^2] investigating the relationship be
 
 ## Project Presentation
 
-The summary of the project
+In the final [video presentation](https://www.youtube.com/watch?v=Caw6UfeNikM), we seek to answer the following question: 
+- Given the relationship between specific economic indicators and portfolio performance, can we accurately forecast whether a specified VaR threshold for a particular portfolio will be breached?
 
 
 
