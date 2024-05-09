@@ -15,6 +15,8 @@ The overview work here is a class group project for `Team 001` in the Georgia Te
 - **Variance-Covariance Method (Parametric Method)**: This method assumes that gains and losses are normally distributed and frames potential losses in terms of standard deviation events from the mean.
 - **Monte Carlo Method**: This method uses random simulations to model potential portfolio returns. It's more flexible but computationally intensive.[^1]
 
+[^1]: [Source](https://www.investopedia.com/terms/v/var.asp)
+
 
 
 
