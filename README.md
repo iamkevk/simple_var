@@ -44,7 +44,7 @@ We proposed a robust multi-factor analysis[^2] investigating the relationship be
 - Beta and Alpha [^3]
 - Sharpe Ratio [^4]
 - Treyner Ratio [^5]
-- Jensen's Alpha
+- Jensen's Alpha [^6]
 
 ## Project Presentation
 
@@ -63,7 +63,8 @@ In the final [video presentation](https://www.youtube.com/watch?v=Caw6UfeNikM), 
 [^2]: Agarwal, V., & Naik, N. Y. (2004). Risks and portfolio decisions involving hedge funds. The Review of Financial Studies, 17(1), 63-98.
 [^3]: [Alpha vs. Beta: An Overview](https://www.investopedia.com/ask/answers/102714/whats-difference-between-alpha-and-beta.asp)
 [^4]: [Sharpe Ratio](https://www.investopedia.com/terms/s/sharperatio.asp)
-[^5]: 
+[^5]: [Treynor Ratio](https://www.investopedia.com/terms/t/treynorratio.asp)
+[^6]: [Jensen's Alpha](https://www.investopedia.com/terms/j/jensensmeasure.asp)
 
 
 
