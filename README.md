@@ -13,7 +13,7 @@ The overview work here is a class group project for `Team 001` in the Georgia Te
 
 - **Historical Method**: This approach looks at past returns history and orders them from worst losses to greatest gains. It assumes that past returns experience will inform future outcomes.
 - **Variance-Covariance Method (Parametric Method)**: This method assumes that gains and losses are normally distributed and frames potential losses in terms of standard deviation events from the mean.
-- **Monte Carlo Method**: This method uses random simulations to model potential portfolio returns. It's more flexible but computationally intensive.
+- **Monte Carlo Method**: This method uses random simulations to model potential portfolio returns. It's more flexible but computationally intensive.[^1]
 
 
 
