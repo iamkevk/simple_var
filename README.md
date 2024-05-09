@@ -21,7 +21,15 @@ The overview work here is a class group project for `Team 001` in the Georgia Te
 
 ## Project Motivation
 
+VaR is an important risk management tool and metric that can be used by retail investors to assess and manage their portfolios. The VaR risk management model can be integrated into investment applications, providing investors with a comprehensive risk management tool. However, VaR poses challenges for retail investors due to its complexity, limited data accessibility, and potential modeling errors, hindering its effective use as a risk management tool. This exploratory group project aimed to democratize VaR and empower retail investors to make informed investment decisions.
+
+## Our approach
+
+We proposed a robust multi-factor analysis[^2] investigating the relationship between VaR and variables including market indicators such as GDP, VIX, S&P 500 and 10-year US government treasury yields and portfolio metrics such as portfolio beta, Sharpe ratio, Treynor ratio, and Jensen’s Alpha. Using logistic regression analysis, tree-based models, and variable selection techniques3, we aim to help retail investors measure and address portfolio risk to navigate potential pitfalls and avoid succumbing to psychological biases that could lead to suboptimal decision-making.
+
+
 [^1]: [Investopedia](https://www.investopedia.com/terms/v/var.asp)
+[^2]: Agarwal, V., & Naik, N. Y. (2004). Risks and portfolio decisions involving hedge funds. The Review of Financial Studies, 17(1), 63-98.
 
 
 
