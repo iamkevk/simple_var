@@ -25,9 +25,26 @@ VaR is an important risk management tool and metric that can be used by retail i
 
 ## Our approach
 
-We proposed a robust multi-factor analysis[^2] investigating the relationship between VaR and variables including market indicators such as GDP, VIX, S&P 500 and 10-year US government treasury yields and portfolio metrics such as portfolio beta, Sharpe ratio, Treynor ratio, and Jensen’s Alpha. Using logistic regression analysis, tree-based models, and variable selection techniques3, we aim to help retail investors measure and address portfolio risk to navigate potential pitfalls and avoid succumbing to psychological biases that could lead to suboptimal decision-making.
+We proposed a robust multi-factor analysis[^2] investigating the relationship between VaR and variables including market indicators such as GDP, VIX, S&P 500 and 10-year US government treasury yields and portfolio metrics such as portfolio beta, Sharpe ratio, Treynor ratio, and Jensen’s Alpha. Using logistic regression analysis, tree-based models, and variable selection techniques3, we aimed to help retail investors measure and address portfolio risk to navigate potential pitfalls and avoid succumbing to psychological biases that could lead to suboptimal decision-making.
+
+## Implementation Overview
+1. Extracted relevant data from FRED API and Yahoo Finance.
+2. Computed 1-month monthly VAR values over 130 months using the three main ways - Historical, Monte Carlo Simulation, and Parametric
+3. Prepared the dataset and executed the logistic regression model.
+4. Select the relevant variables based on the p-values.
+5. Variable selection and run the logistic regression model again.
+6. Evaluated the model on the test data set.
+7. Run a random forest classifier on the training and test results of the logistic regression model.
+8. Identified feature importance
+
+## Project Presentation
+
+The summary of the project
 
 
+
+
+## References
 [^1]: [Investopedia](https://www.investopedia.com/terms/v/var.asp)
 [^2]: Agarwal, V., & Naik, N. Y. (2004). Risks and portfolio decisions involving hedge funds. The Review of Financial Studies, 17(1), 63-98.
 
