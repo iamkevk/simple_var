@@ -41,7 +41,7 @@ We proposed a robust multi-factor analysis[^2] investigating the relationship be
 
 ## Performance metrics
 - Historical S&P 500 index data
-- Beta and Alpha
+- Beta and Alpha [^3]
 - Sharpe Ratio
 - Treyner Ratio
 - Jensen's Alpha
@@ -57,6 +57,7 @@ In the final [video presentation](https://www.youtube.com/watch?v=Caw6UfeNikM), 
 ## References
 [^1]: [Investopedia](https://www.investopedia.com/terms/v/var.asp)
 [^2]: Agarwal, V., & Naik, N. Y. (2004). Risks and portfolio decisions involving hedge funds. The Review of Financial Studies, 17(1), 63-98.
+[^3]: [Alpha vs. Beta: An Overview](https://www.investopedia.com/ask/answers/102714/whats-difference-between-alpha-and-beta.asp)
 
 
 
