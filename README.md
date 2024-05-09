@@ -51,11 +51,15 @@ We proposed a robust multi-factor analysis[^2] investigating the relationship be
 In the final [video presentation](https://www.youtube.com/watch?v=Caw6UfeNikM), we seek to answer the following question: 
 - Given the relationship between specific economic indicators and portfolio performance, can we accurately forecast whether a specified VaR threshold for a particular portfolio will be breached?
 
+## `Team 001`group members
 
-
+- Benita Neo
+- Kevin Kori
+- Lee Hui
+- Ryan Seet
 
 ## References
-[^1]: [Investopedia](https://www.investopedia.com/terms/v/var.asp)
+[^1]: [Understanding Value at Risk (VaR)](https://www.investopedia.com/terms/v/var.asp)
 [^2]: Agarwal, V., & Naik, N. Y. (2004). Risks and portfolio decisions involving hedge funds. The Review of Financial Studies, 17(1), 63-98.
 [^3]: [Alpha vs. Beta: An Overview](https://www.investopedia.com/ask/answers/102714/whats-difference-between-alpha-and-beta.asp)
 
